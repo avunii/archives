@@ -52,21 +52,19 @@ This is a comprehensive Archive on all the projects I worked on between the year
 
 - These projects were written in very many languages, espically in:
 
-    - HTML (35%)
+    - CSS (80.4%)
 
-    - CSS (28.14%)
+    - Java (13.2%)
 
-    - JavaScript (23.6%)
+    - HTML (3.5%)
+      
+    - Python (1.2%)
 
-    - Java (14%)
+    - JavaScript (1.1%)
 
-    - Python (14%)
+    - PHP (0.5%)
 
-    - PHP (10.86%)
-
-    - Hack (2.3%)
-
-    - Batchfile (0.14%)
+    - Other (0.1%)
 
 ## Appendix
 
