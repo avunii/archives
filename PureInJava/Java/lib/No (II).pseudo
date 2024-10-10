@@ -1,0 +1,64 @@
+BEGIN
+            GET "NAMES OF STUDENTS " 
+
+            OUTPUT " NAMES OF STUDENTS, TOTAL MARKS AND AVERAGE GRADE"
+
+            INPUT "MARKS OF MATHEMATICS, ENGLISH, KISWAHILI, BIOLOGY, CHEMISTRY, BUSINESS                             STUDIES, COMPUTER SCIENCE, HISTORY"
+
+            CALCULATE "TOTAL MARKS"
+
+            COMPUTE " AVERAGE"
+
+                     IF "80-100 " THEN, "A"
+
+
+                                     ELSE,
+
+
+
+                    IF  "70-79" THEN "B"
+
+
+                                     ELSE,
+
+
+                    IF "60-69"  THEN "C"
+
+
+                                     ELSE,
+
+
+                    IF "50-59"  THEN "D"
+
+
+                                 
+                                    ELSE,
+    
+
+
+                    IF "BELOW 50" THEN, "E"
+  
+
+            ENDIF
+            ENDIF
+            ENDIF
+            ENDIF
+            ENDIF
+
+
+            DISPLAY "TOTAL MARKS AND AVERAGE GRADE",
+
+
+END 
+            
+
+
+    
+
+ 
+
+ 
+                                     
+         
+
+ 

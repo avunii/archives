@@ -1,0 +1,104 @@
+TASK 1
+BEGIN
+  OUTPUT'Enter two numbers'
+  INPUT:a,b
+  ADD c=a+b
+  PRINT"The answer is"+C
+END
+
+TASK 2.
+BEGIN
+  OUTPUT:Enter"What is your name"
+  INPUT:Enter your name
+  OUTPUT:"What is your name+name"
+END
+
+TASK 3.
+BEGIN
+  OUTPUT:"What is your first name"
+  INPUT:"Enter your first name"
+  OUTPUT:"What is your second name"
+  INPUT:"Enter your second name"
+  OUTPUT:"What is your third name"
+  INPUT:"Enter your third name"
+  OUTPUT:"Your name+ the first name+ second name+ third name."
+END
+
+TASK 4.
+START
+   PRINT"enter students marks"
+   READ students marks
+        IF marks >50
+   PRINT"PASS"
+         ELSE
+   PRINT"FAIL"
+         ENDIF
+STOP.
+
+TASK 5.
+START.
+   PRINT "Enter 2 numbers"
+   INPUT X,Y
+   IF y= 10 THEN
+   PRINT "Error: Division by zero"
+    ELSE
+   Quotient = x/y
+   PRINT x, y, quotient
+   ENDIF
+STOP
+
+TASK 6.
+START
+  INPUT "Enter athlete's name and postion"
+   IF athlete= position 1 THEN
+  PRINT 10000 REWARD
+     ELSE
+  PRINT 5000 REWARD
+  IF athlete = position 2
+   ELSE
+  IF athlete = position 3
+  PRINT 2500 REWARD
+   END IF
+   END IF
+   END IF
+STOP
+
+TASK 7
+START
+  OUTPUT:"Enter students names"
+  INPUT: "Students Marks"
+  inpuT: "Math, eng, kis, bio, chem, business, computer science, hist."
+  ADD "All students marks"
+
+  (i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
